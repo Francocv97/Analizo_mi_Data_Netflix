@@ -1,4 +1,4 @@
-Análisis de Datos de Visualización en Netflix
+Análisis de Datos de Visualización en Netflix con Python y Google Colab.
 
 Este repositorio contiene un análisis básico de los datos de visualización de contenido en Netflix. Los datos incluyen la fecha y el título del contenido visto.
 
