@@ -22,7 +22,7 @@ Requisitos
 ## Instrucciones
 
 1. Clona este repositorio en tu máquina local.
-2. Asegúrate de usar Google Colab.
+2. Asegúrate de usar Google Colab https://colab.google/.
 3. Instala las bibliotecas requeridas ejecutando: `pip install pandas numpy seaborn matplotlib`.
 4. Coloca el archivo CSV con los datos (`datos_netflix.csv`) en la misma ubicación que el archivo `analisis_netflix.py`.
 5. Ejecuta el archivo `analisis_netflix.py`.
